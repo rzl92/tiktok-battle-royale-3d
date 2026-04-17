@@ -1,0 +1,11 @@
+{
+  "name": "@battle/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "build": "node --check src/index.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@battle/backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "check": "node --check src/server.js && node --check src/app.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "@battle/shared": "file:../shared",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  },
+  "devDependencies": {}
+}
