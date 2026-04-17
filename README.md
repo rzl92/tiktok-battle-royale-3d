@@ -56,6 +56,12 @@ npm.cmd run desktop:build
 
 ## Hugging Face Backend Deployment
 
+Deployed backend:
+
+```text
+https://rzl92-tiktok-battle-royale-3d-backend.hf.space
+```
+
 1. Create a new Hugging Face Space.
 2. Choose Docker as the Space SDK.
 3. Push this repository to the Space remote, or upload the project files.
@@ -91,6 +97,8 @@ Examples:
 ```text
 http://127.0.0.1:7860/webhook1?username=Rizal
 http://127.0.0.1:7860/webhook2?username=Rizal&coins=4
+https://rzl92-tiktok-battle-royale-3d-backend.hf.space/webhook1?username=Rizal
+https://rzl92-tiktok-battle-royale-3d-backend.hf.space/webhook2?username=Rizal&coins=4
 ```
 
 ## API

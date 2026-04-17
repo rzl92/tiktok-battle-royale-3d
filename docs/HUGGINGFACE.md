@@ -15,3 +15,9 @@ Webhook URLs look like this after deployment:
 https://YOUR_SPACE.hf.space/webhook1?username={username}
 https://YOUR_SPACE.hf.space/webhook2?username={username}&coins={coins}
 ```
+
+This project is deployed at:
+
+```text
+https://rzl92-tiktok-battle-royale-3d-backend.hf.space
+```
