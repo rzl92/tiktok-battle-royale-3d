@@ -1,6 +1,7 @@
 node_modules/
 dist/
 target/
+desktop/src-tauri/gen/
 .env
 .env.local
 *.log
